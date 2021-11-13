@@ -1,4 +1,4 @@
-# SpecsShpere ⛰
+# SpecsShpere 🕶
 
 This is the server site of a leading exclusive luxery sunglass providing website Specssphere<br/>
 [Live Client Site Link](https://specssphere.netlify.app/)<br/>
