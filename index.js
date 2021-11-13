@@ -154,7 +154,6 @@ async function run() {
 			if (user?.role === 'admin') {
 				isAdmin = true;
 			}
-			console.log(email);
 			res.json({ admin: isAdmin });
 		});
 		// *Add Admin
